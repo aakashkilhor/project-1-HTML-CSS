@@ -125,4 +125,16 @@ body{
         font-size: 20px;
         margin: 5px;
     }
+    .person {
+        display: none;
+    }
+    .square{
+        display: none;
+    }
+    .hero-container-right{
+        margin-left: 30px;
+    }
+    .list{
+        flex-direction: column;
+    }
 }
